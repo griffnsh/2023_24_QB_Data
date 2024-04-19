@@ -1,0 +1,1 @@
+offensive_path = '/Users/griff/Desktop/analytics/nfl_data/offensive_data'
